@@ -1,0 +1,33 @@
+"Investment ID","Expected Profits Per Unit","Current Price Per Unit","Risk Category","Investment Market","Eco Friendly Business"
+1	 , 1.451	 , 2.563	 , A	 , Tech	 , Y
+2	 , 2.683	 , 4.307	 , B	 , Finance	 , Y
+3	 , 5.898	 , 6.422	 , C	 , Finance	 , Y
+4	 , 2.102	 , 3.488	 , A	 , PetroChem	 , N
+5	 , 5.709	 , 6.581	 , B	 , Finance	 , N
+6	 , 4.519	 , 8.993	 , D	 , Finance	 , Y
+7	 , 7.176	 , 11.481	 , C	 , Finance	 , Y
+8	 , 6.075	 , 11.730	 , B	 , Tech	 , Y
+9	 , 5.718	 , 9.270	 , B	 , PetroChem	 , Y
+10	 , 7.442	 , 10.160	 , A	 , Automobile	 , Y
+11	 , 1.234	 , 1.961	 , C	 , Tech	 , Y
+12	 , 4.680	 , 9.300	 , D	 , Automobile	 , N
+13	 , 7.229	 , 11.672	 , A	 , PetroChem	 , Y
+14	 , 9.589	 , 10.877	 , B	 , Automobile	 , N
+15	 , 6.497	 , 12.137	 , C	 , Finance	 , N
+,,,,,
+,,,,,
+"Risk Categories","Min","Max",,,
+A,1500,3500,,,
+B,4500,6500,,,
+C,1000,3000,,,
+D,500,2500,,,
+,,,,,
+,,,,,
+"Investment Market","Min","Max",,,
+Tech,0,3000,,,
+Finance,0,4000,,,
+PetroChem,0,5000,,,
+Automobile,0,7000,,,
+,,,,,
+"EcoFriendly ","Min","Max",,,
+Y,2000,10000,,,
