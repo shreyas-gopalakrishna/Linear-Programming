@@ -1,5 +1,5 @@
 # Linear-Programming
-Linear programming course work and programs.
+Linear programming coursework and programs.
 
 ### Project work
 https://github.com/shreyas-gopalakrishna/Vehicle-Routing
